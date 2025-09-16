@@ -1,0 +1,11 @@
+ftfy==6.1.1
+regex==2023.5.5
+scikit-learn==1.0.2
+numpy==1.23.0
+torch==2.1.1
+torchvision==0.16.1
+mpmath==1.3.0
+pillow==10.3.0
+scikit-image==0.21.0
+scikit-learn==1.0.2
+scipy==1.8.0
