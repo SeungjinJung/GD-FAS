@@ -1,4 +1,4 @@
-# Group-wise Scaling and Orthogonal Decomposition for Domain-Invariant Feature Extraction in Face Anti-Spoofing.
+# Group-wise Scaling and Orthogonal Decomposition for Domain-Invariant Feature Extraction in Face Anti-Spoofing. (ICCV 2025)
 This repository contains the official implementation of the ICCV 2025 paper.
 [[Arxiv](https://arxiv.org/abs/2507.04006)] [[Project](https://seungjinjung.github.io/project/GD-FAS.html)]
 
